@@ -19,7 +19,7 @@ export default function Navbar() {
           </a>
         </nav>
         <a
-          href="#contact"
+          href="./resume.pdf"
           className="inline-flex items-center bg-gray-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 rounded text-base mt-4 md:mt-0">
           My Resume
           <ArrowRightIcon className="w-4 h-4 ml-1" />
