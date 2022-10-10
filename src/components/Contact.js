@@ -1,7 +1,6 @@
 import React from "react";
 
 export default function Contact() {
- 
   return (
     <section id="contact" className="relative">
       <div className="container px-5 py-10 mx-auto flex sm:flex-nowrap flex-wrap">
@@ -42,12 +41,13 @@ export default function Contact() {
             </div>
           </div>
         </div>
-       
+
         <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
           Contact me
           <br />
           aashishkaushik266@gmail.com
         </h2>
+        <button onClick={"https://twitter.com/Aashishkaushik_"}>Twitter</button>
       </div>
     </section>
   );
