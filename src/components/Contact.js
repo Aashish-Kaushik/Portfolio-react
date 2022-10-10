@@ -63,7 +63,8 @@ export default function Contact() {
           <li class="list-item-inline">
             <a
               class="links"
-              href="https://twitter.com/AashishKaushikD/"
+              href="https://twitter.com/AashishKaushik_/"
+              
               target="blank">
               <img
                 class="icon"
@@ -75,7 +76,7 @@ export default function Contact() {
           <li class="list-item-inline">
             <a
               class="links"
-              href="https://www.linkedin.com/in/aashishkaushik26//"
+              href="https://www.linkedin.com/in/aashishkaushik26/"
               target="blank">
               <img
                 class="icon"
