@@ -10,9 +10,14 @@ export default function About() {
             <br className="hidden lg:inline-block" />I am Backend Developer.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+            Hi, I’m Aashish Kaushik! I'm a web Developer with in-depth
+            experience in Backend Development . In a nutshell, I create websites
+            that help organizations address business challenges and meet their
+            needs. I manage everything from website navigation and layout to a
+            company's web hosting and security architecture. My expertise lies
+            within Back-end web apps, and the main languages in my tech stack
+            are JavaScript,Node.js, MongoDB, Express, React, and of course
+            HTML/CSS. I’m a lifelong learner .
           </p>
           <div className="flex justify-center">
             <a
