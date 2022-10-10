@@ -47,16 +47,44 @@ export default function Contact() {
           <br />
           aashishkaushik266@gmail.com
         </h2>
-        <a
-          class="links"
-          href="https://www.linkedin.com/in/aashishkaushik26/"
-          target="blank">
-          <img
-            class="icon"
-            src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"
-            alt="Linkedin"
-          />
-        </a>
+        <ul class="social-link">
+          <li class="list-item-inline">
+            <a
+              class="links"
+              href="https://github.com/Aashish-Kaushik/"
+              target="blank">
+              <img
+                class="icon"
+                src="https://www.vectorlogo.zone/logos/github/github-tile.svg"
+                alt="Github"
+              />
+            </a>
+          </li>
+          <li class="list-item-inline">
+            <a
+              class="links"
+              href="https://twitter.com/AashishKaushikD/"
+              target="blank">
+              <img
+                class="icon"
+                src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"
+                alt="twitter"
+              />
+            </a>
+          </li>
+          <li class="list-item-inline">
+            <a
+              class="links"
+              href="https://www.linkedin.com/in/aashishkaushik26//"
+              target="blank">
+              <img
+                class="icon"
+                src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"
+                alt="Linkedin"
+              />
+            </a>
+          </li>
+        </ul>
       </div>
     </section>
   );
