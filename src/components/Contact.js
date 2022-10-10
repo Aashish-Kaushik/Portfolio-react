@@ -47,7 +47,16 @@ export default function Contact() {
           <br />
           aashishkaushik266@gmail.com
         </h2>
-        <button onClick={"https://twitter.com/Aashishkaushik_"}>Twitter</button>
+        <a
+          class="links"
+          href="https://www.linkedin.com/in/aashishkaushik26/"
+          target="blank">
+          <img
+            class="icon"
+            src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"
+            alt="Linkedin"
+          />
+        </a>
       </div>
     </section>
   );
