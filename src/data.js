@@ -1,5 +1,13 @@
 export const projects = [
   {
+    title: "Node",
+    subtitle: "Slots-tracker-CLI app ",
+    description:
+      "I build a COVID-19 vaccination slots tracker using CLI. This will call the live api and return the different slots available in your choice of district..",
+    // image: "./project-1.gif",
+    link: "https://github.com/Aashish-Kaushik/Slots-tracker-CLI",
+  },
+  {
     title: "Node Express  MongoDB JavaScript JWT Authentication",
     subtitle: "library_manager",
     description:
