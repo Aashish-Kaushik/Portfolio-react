@@ -16,7 +16,7 @@ export default function About() {
             manage everything from website navigation and layout to a company's
             web hosting and security architecture. My expertise lies within
             Back-end web apps, and the main languages in my tech stack are
-            JavaScript and of course HTML/CSS. and Technology i used Node.js,
+            JavaScript and of course HTML/CSS. and Technology I used Node.js,
             MongoDB, Express, React, I’m a lifelong learner .
           </p>
           <div className="flex justify-center">

@@ -41,51 +41,51 @@ export default function Contact() {
             </div>
           </div>
         </div>
+        <div style={{display:"flex",flexDirection:"column",rowGap:"12px"}}>
 
-        <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
-          Contact me
-          <br />
-          aashishkaushik266@gmail.com
-        </h2>
-        <ul class="social-link">
-          <li class="list-item-inline">
-            <a
-              class="links"
-              href="https://github.com/Aashish-Kaushik/"
-              target="blank">
-              <img
-                class="icon"
-                src="https://www.vectorlogo.zone/logos/github/github-tile.svg"
-                alt="Github"
-              />
-            </a>
-          </li>
-          <li class="list-item-inline">
-            <a
-              class="links"
-              href="https://twitter.com/AashishKaushik_/"
-              
-              target="blank">
-              <img
-                class="icon"
-                src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"
-                alt="twitter"
-              />
-            </a>
-          </li>
-          <li class="list-item-inline">
-            <a
-              class="links"
-              href="https://www.linkedin.com/in/aashishkaushik26/"
-              target="blank">
-              <img
-                class="icon"
-                src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"
-                alt="Linkedin"
-              />
-            </a>
-          </li>
-        </ul>
+          <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
+            Contact me aashishkaushik266@gmail.com
+          </h2>
+          <ul style={{ display: "flex", justifyContent: "space-around"}} class="social-link">
+            <li class="list-item-inline">
+              <a
+                class="links"
+                href="https://github.com/Aashish-Kaushik/"
+                target="blank">
+                <img
+                  class="icon"
+                  src="https://www.vectorlogo.zone/logos/github/github-tile.svg"
+                  alt="Github" height={40} width={40}
+                />
+              </a>
+            </li>
+            <li class="list-item-inline">
+              <a
+                class="links"
+                href="https://twitter.com/AashishKaushik_/"
+
+                target="blank">
+                <img
+                  class="icon"
+                  src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"
+                  alt="twitter" height={40} width={40}
+                />
+              </a>
+            </li>
+            <li class="list-item-inline">
+              <a
+                class="links"
+                href="https://www.linkedin.com/in/aashishkaushik26/"
+                target="blank">
+                <img
+                  class="icon"
+                  src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"
+                  alt="Linkedin" height={40} width={40}
+                />
+              </a>
+            </li>
+          </ul>
+        </div>
       </div>
     </section>
   );
