@@ -1,5 +1,23 @@
 export const projects = [
   {
+    title: "Chat APP",
+    subtitle: "Real-Time Chat Application",
+    description: "This is a real-time chat application built using Node.js, Express, and Socket.IO. It allows users to engage in instant messaging and communicate with each other in real-time Users can send and receive messages instantly without the need to refresh the page. The chat app supports multiple users simultaneously. The chat interface is intuitive and easy to use. Create room for grop chat",
+    link:"https://github.com/Aashish-Kaushik/ChatApp"
+  }, 
+  {
+    title:"Store-API",
+    subtitle:"Store API Project",
+    description:"This repository contains the code for the Store API project. The project aims to provide a RESTful API for managing a store's inventory and sales data. It allows users to perform various operations such as retrieving sales reports.",
+    link:"https://github.com/Aashish-Kaushik/Store-API"
+  },
+  {
+    title:"ToDo App",
+    subtitle:"Todo API Project",
+    description:"This repository contains the code for the Todo API project. The project aims to provide a RESTful API for managing todo items. It allows users to create, update, delete, and retrieve todo items.",
+    link:"https://github.com/Aashish-Kaushik/Todo-app"
+  },
+  {
     title: "Node",
     subtitle: "Slots-tracker-CLI app ",
     description:
@@ -73,6 +91,7 @@ export const skills = [
   "jQuery",
   "EJS",
   "Git & GitHub",
+  "MySQL",
   "HTML",
   "CSS",
 ];
