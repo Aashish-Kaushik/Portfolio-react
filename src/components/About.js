@@ -10,14 +10,10 @@ export default function About() {
             <br className="hidden lg:inline-block" />I am Backend Developer.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Hi, I’m Aashish Kaushik! I'm a web Developer with experience in
-            Backend Development . In a nutshell, I create websites that help
-            organizations address business challenges and meet their needs. I
-            manage everything from website navigation and layout to a company's
-            web hosting and security architecture. My expertise lies within
-            Back-end web apps, and the main languages in my tech stack are
-            JavaScript and of course HTML/CSS. and Technology I used Node.js,
-            MongoDB, Express, React, I’m a lifelong learner .
+            I am Aashish kaushik, an experienced Backend Developer specializing in creating efficient and scalable web applications.
+            With a strong passion for coding Throughout my career, 
+            I have gained proficiency in languages such a JavaScript, along with a deep understanding of backend technologies like Node.js. 
+            I have worked extensively with databases such as MySQL, MongoDB and I am adept at developing RESTful APIs .I’m a lifelong learner .
           </p>
           <div className="flex justify-center">
             <a
