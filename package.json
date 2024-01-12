@@ -1,7 +1,16 @@
 {
-  "name": "my-portfolio",
+  "name": "aashish-kaushik",
   "version": "0.1.0",
   "private": true,
+  "keywords": [
+    "Aashish Kaushik",
+    "Aashish kaushik",
+    "aashish kaushik",
+    "aashish",
+    "ashish",
+    "ashish kaushik"
+  ],
+  "author": "Aashish Kaushik",
   "dependencies": {
     "@craco/craco": "^5.9.0",
     "@heroicons/react": "^1.0.1",
@@ -16,10 +25,7 @@
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
+    "extends": ["react-app", "react-app/jest"]
   },
   "devDependencies": {
     "autoprefixer": "^9.8.6",
